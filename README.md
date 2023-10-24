@@ -1,8 +1,7 @@
 ## Msc. Marcos Takahama 👨‍🔧
 Mechanical Engineer, PhD. Candidate
 
-
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github.com/mhtakahama/mhtakahama/raw/main/mhtakahama.png" width="200">

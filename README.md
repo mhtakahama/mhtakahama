@@ -1,5 +1,5 @@
 ## Msc. Marcos Takahama👨‍🔧
-Mechanical Engineer, In finishing of PhD.
+Mechanical Engineer, In finish of PhD.
 
 <table border="0">
   <tr>

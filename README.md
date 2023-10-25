@@ -80,7 +80,7 @@ Mechanical Engineer, In finishing of PhD.
 
 
 <!-- Space for Example Codes -->
-<h1>📋 Example codes for teaching class (updating more codes when have time available)</h1>
+<h1>📋 Simply example codes for teaching class </h1>
 
 <ul>
   <li><a href="https://github.com/mhtakahama/Code-examples/blob/main/Fortran_CFD_exercise">Fortran (2019), CFD for class</a></li>

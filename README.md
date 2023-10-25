@@ -68,11 +68,11 @@ Mechanical Engineer, In finish of PhD.
   <a href="[Mechanical Contacts](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1b.gif)">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1b.gif" alt="Figure 2" width="805">
   </a>
-    <h2>Structural and rotor mode vibration Analisys (2023)</h2>
+    <h2>Structural and rotor mode vibration analysis (2023)</h2>
   <a href="[Mode Vibration](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif)">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif" alt="Figure 3" width="805">
   </a>
-      <h2>Non newtonian fluid analisys and friction for performance in grease lubrication (2023)</h2>
+      <h2>Non newtonian fluid analysis and friction for performance in grease lubrication (2023)</h2>
   <a href="[Rheology Curve](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5a.jpg)">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5a.jpg" alt="Figure 5" width="380">
   </a>

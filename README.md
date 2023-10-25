@@ -79,6 +79,14 @@ Mechanical Engineer, In finishing of PhD.
   </a>
 
 
+<!-- Space for Example Codes -->
+<h1>📋 Example codes for teaching class</h1>
+
+<ul>
+  <li><a href="https://github.com/mhtakahama/Code-examples/blob/main/Fortran_CFD_exercise">Fortran (2019), CFD for class</a></li>
+  <li><a href="https://github.com/mhtakahama/Code-examples/blob/main/Matlab_DeeplLearning_Classificador%20de%20Padr%C3%B5es/Algoritmo.m">MATLAB (2016), Deep learning to classify pattern</a></li>
+</ul>
+
 <div align="center">
 <h4><sub>Also skilled in crafting coffee ☕ and pizza maker 🍕</sub></h4>
 </div>

@@ -26,8 +26,7 @@ Mechanical Engineer, In finish of PhD.
   <a href="#">Deep Learning Applications</a> - 
   <a href="#">Computational Fluid Dynamics - CFD</a> - 
   <a href="#">Finite Element Method - MEF</a> - 
-  <a href="#">Semi-empirical Models</a> - 
-  <a href="#">Empirical Models</a> - 
+  <a href="#">Semi and empirical Models</a> - 
   <a href="#">Mathematical Solutions</a>
 </div>
 
@@ -40,11 +39,11 @@ Mechanical Engineer, In finish of PhD.
 <div align="center">
   <a href="#">Rotor-Bearing-Housing Problems</a> - 
   <a href="#">Thermal</a> - 
-  <a href="#">Rheology</a> - 
-  <a href="#">Vibration</a> - 
   <a href="#">Structural</a> - 
-  <a href="#">Signal Analysis</a> - 
+  <a href="#">Vibration</a> - 
   <a href="#">Fluid Dynamics</a>
+  <a href="#">Rheology</a> - 
+  <a href="#">Signal Analysis</a> - 
 </div>
 
 <hr>

@@ -31,7 +31,6 @@ Mechanical Engineer, In finishing of PhD.
 </div>
 
 <br>
-
   <div align="left">
   <h1>🛠️ Problem Domains</h1>
   <p>Formation in engineering domains, including:</p>
@@ -46,6 +45,39 @@ Mechanical Engineer, In finishing of PhD.
   <a href="#">Signal Analysis</a> - 
   <a href="#">Fluid Dynamics</a>
 </div>
+
+<hr>
+
+<!-- Figure 6: Vibration -->
+<h2>Digital Image Correlation for Vibration Analisys Vibration (2019)</h2>
+  <a href="[DIC webcams](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Vibration/6.png)">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Vibration/6.png" alt="Figure 5" width="805">
+  </a>
+</div>
+<h2>Rolling Bearing Power Loss Test Rig and Thermal Analysis (2020)</h2>
+<div style="display: flex; flex-direction: row;">
+  <a href="[RBPLR](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1a.png)">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1a.png" alt="Figure 1" width="420">
+  </a>
+    <a href="[Thermal Analysis](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/3a.png)">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/3a.png" alt="Figure 4" width="380">
+  </a>
+  <h2>Contact Mechanics in Rolling Bearings (2023)</h2>
+  <a href="[Mechanical Contacts](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1b.gif)">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1b.gif" alt="Figure 2" width="805">
+  </a>
+    <h2>Structural and rotor mode vibration Analisys (2023)</h2>
+  <a href="[Mode Vibration](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif)">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif" alt="Figure 3" width="805">
+  </a>
+      <h2>Non newtonian fluid analisys and friction for performance for grease lubrication (2023)</h2>
+  <a href="[Rheology Curve](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5a.jpg)">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5a.jpg" alt="Figure 5" width="380">
+  </a>
+  <a href="[MTM Curve](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5b.jpg)">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5b.jpg" alt="Figure 5" width="420">
+  </a>
+
 
 <div align="center">
 <h4><sub>Also skilled in crafting coffee ☕ and pizza maker 🍕</sub></h4>

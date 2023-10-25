@@ -10,6 +10,9 @@ Mechanical Engineer, In finish of PhD.
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=mhtakahama&show_icons=true&theme=codeSTACKr&count_private=true">
     </td>
+    <td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtakahama&layout=compact&theme=buefy&hide_border=true" />
+    </td>
   </tr>
 </table>
 
@@ -48,7 +51,7 @@ Mechanical Engineer, In finish of PhD.
 <hr>
 
 <!-- Figure 6: Vibration -->
-<h2>Digital Image Correlation for Vibration Analisys Vibration (2019)</h2>
+<h2>Digital Image Correlation for Vibration Analisys Vibration (2019)</h2> 
   <a href="[DIC webcams](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Vibration/6.png)">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Vibration/6.png" alt="Figure 5" width="805">
   </a>

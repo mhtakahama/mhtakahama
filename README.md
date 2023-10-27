@@ -52,7 +52,7 @@ Mechanical Engineer, In finish of PhD.
 
 <!-- Figure 6: Vibration -->
 <h2>Digital Image Correlation for Vibration Analysis Vibration (2019)</h2> 
-  <a href="[DIC webcams](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Vibration/6.png)">
+  <a href="[DIC webcams](https://github.com/mhtakahama/VODCA)">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Vibration/6.png" alt="Figure 5" width="805">
   </a>
 </div>

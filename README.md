@@ -1,5 +1,5 @@
 ## Msc. Marcos Takahama👨‍🔧
-Mechanical Engineer, In finish of PhD.
+Mechanical Engineer/Dev
 
 <table border="0">
   <tr>
@@ -39,7 +39,6 @@ Mechanical Engineer, In finish of PhD.
 </div>
 
 <div align="center">
-  <a href="#">Rotor-Bearing-Housing Problems</a> - 
   <a href="#">Thermal</a> - 
   <a href="#">Structural</a> - 
   <a href="#">Vibration</a> - 

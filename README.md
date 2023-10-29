@@ -89,7 +89,7 @@ Mechanical Engineer/Dev
   </a>
 
 <!--Example Codes -->
-<h1>📋 Simply example codes for teaching class</h1>
+<h1>📋 Example codes for teaching class</h1>
 <ul>
   <li><a href="https://github.com/mhtakahama/Aulas_Elemaq2022">Elementos de máquina (2022), Material de aula e exercícios em MATLAB</a></li>
   <li><a href="https://github.com/mhtakahama/Code-examples/blob/main/Fortran_CFD_exercise">Fortran (2019), CFD for class</a></li>

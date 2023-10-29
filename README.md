@@ -1,6 +1,7 @@
 ## Msc. Marcos Takahama👨‍🔧
 Mechanical Engineer/Dev
 
+<!-- Space for APIs -->
 <table border="0">
   <tr>
     <td>
@@ -16,41 +17,41 @@ Mechanical Engineer/Dev
   </tr>
 </table>
 
+<!-- Socials -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhtakahama/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng.mhtakahama/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcostakahama@alunos.utfpr.edu.br)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541989037272)
 
-  <h1>🔍 Featured Topics</h1>
-  <p> Starting to Divulgate the Intersection of Engineering and Data Science</p>
+<!-- Topics -->
+<div>
+    <h1>🔍 Featured Topics</h1>
+    <p>Exploring the Intersection of Engineering and Data Science</p>
+    <div align="center">
+        <a href="#">Rotor-Bearing-Housing Problems</a> - 
+        <a href="#">Computational Fluid Dynamics - CFD</a> - 
+        <a href="#">Finite Element Method - FEM</a> - 
+        <a href="#">Semi-Empirical Models</a> 
+        <a href="#">Deep Learning Applications</a> - 
+    </div>
 </div>
 
-<div align="center">
-  <a href="#">Rotor-Bearing-Housing problems</a> - 
-  <a href="#">Computational Fluid Dynamics - CFD</a> - 
-  <a href="#">Finite Element Method - MEF</a> - 
-  <a href="#">Semi and empirical Models</a> 
-  <a href="#">Deep Learning Applications</a> - 
-</div>
-
-<br>
-  <div align="left">
-  <h1>🛠️ Problem Domains</h1>
-  <p>Formation in engineering domains, including:</p>
-</div>
-
-<div align="center">
-  <a href="#">Thermal</a> - 
-  <a href="#">Structural</a> - 
-  <a href="#">Vibration</a> - 
-  <a href="#">Fluid Dynamics</a>
-  <a href="#">Rheology</a> - 
-  <a href="#">Signal Analysis</a>
+<div>
+    <h1>🛠️ Physical Domains</h1>
+    <p>Expertise in Engineering Fields:</p>
+    <div align="center">
+        <a href="#">Thermal</a> - 
+        <a href="#">Structural</a> - 
+        <a href="#">Vibration</a> - 
+        <a href="#">Fluid Dynamics</a>
+        <a href="#">Rheology</a> - 
+        <a href="#">Signal Analysis</a>
+    </div>
 </div>
 
 <hr>
 
-<!-- Figure 6: Vibration -->
+<!-- Projects developed -->
 <h2><a href="https://github.com/mhtakahama/VODCA">Digital Image Correlation for Vibration Analysis Vibration (2019)</a></h2> 
   <a href="https://github.com/mhtakahama/VODCA">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Vibration/6.png" alt="Figure 5" width="805">
@@ -80,16 +81,15 @@ Mechanical Engineer/Dev
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5b.jpg" alt="Figure 5" width="420">
   </a>
 
-
-<!-- Space for Example Codes -->
+<!--Example Codes -->
 <h1>📋 Simply example codes for teaching class</h1>
-
 <ul>
   <li><a href="https://github.com/mhtakahama/Aulas_Elemaq2022">Elementos de máquina (2022), Material de aula e exercícios em MATLAB</a></li>
   <li><a href="https://github.com/mhtakahama/Code-examples/blob/main/Fortran_CFD_exercise">Fortran (2019), CFD for class</a></li>
   <li><a href="https://github.com/mhtakahama/Code-examples/blob/main/Matlab_DeeplLearning_Classificador%20de%20Padr%C3%B5es/Algoritmo.m">MATLAB (2016), Deep learning to classify pattern</a></li>
 </ul>
-
 <div align="center">
+
+<!--Addtional notes -->
 <h4><sub>Also skilled in crafting coffee ☕ and pizza maker 🍕</sub></h4>
 </div>

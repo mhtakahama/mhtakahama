@@ -1,7 +1,7 @@
 ## Msc. Marcos Takahama👨‍🔧
 Mechanical Engineer/Dev
 
-Available for hire
+✓ Available for hire
 
 <!-- Space for APIs -->
 <table border="0">

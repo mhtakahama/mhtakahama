@@ -56,31 +56,36 @@ Mechanical Engineer/Dev
 <!-- Projects developed -->
 <h2><a href="https://github.com/mhtakahama/VODCA">Digital Image Correlation for Vibration Analysis Vibration (2019)</a></h2> 
   <a href="https://github.com/mhtakahama/VODCA">
-    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Vibration/6.png" alt="Figure 5" width="805">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Vibration/6.png" alt="Figure 1" width="805">
   </a>
 </div>
+
 <h2>Rolling Bearing Power Loss Test Rig and Thermal Analysis (2020)</h2>
 <div style="display: flex; flex-direction: row;">
-  <a href="[RBPLR](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1a.png)">
-    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1a.png" alt="Figure 1" width="420">
+<a href="[Thermal Analysis](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/3a.png)">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/1.gif" alt="Figure 3" width="805">
+    </a>      
+<a href="[RBPLR](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1a.png)">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1a.png" alt="Figure 2" width="420">
   </a>
-    <a href="[Thermal Analysis](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/3a.png)">
-    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/3a.png" alt="Figure 4" width="380">
+<a href="[Thermal Analysis](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/3a.png)">
+      <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/3a.png" alt="Figure 2.2" width="380">
   </a>
+
   <h2>Contact Mechanics in Rolling Bearings (2023)</h2>
   <a href="[Mechanical Contacts](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1b.gif)">
-    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1b.gif" alt="Figure 2" width="805">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1b.gif" alt="Figure 4" width="805">
   </a>
     <h2>Structural and rotor mode vibration analysis (2023)</h2>
   <a href="[Mode Vibration](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif)">
-    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif" alt="Figure 3" width="805">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif" alt="Figure 5" width="805">
   </a>
       <h2>Non newtonian fluid analysis and friction for performance in grease lubrication (2023)</h2>
   <a href="[Rheology Curve](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5a.jpg)">
-    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5a.jpg" alt="Figure 5" width="380">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5a.jpg" alt="Figure 6" width="380">
   </a>
   <a href="[MTM Curve](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5b.jpg)">
-    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5b.jpg" alt="Figure 5" width="420">
+    <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5b.jpg" alt="Figure 7" width="420">
   </a>
 
 <!--Example Codes -->

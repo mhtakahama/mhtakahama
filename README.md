@@ -26,10 +26,11 @@ Mechanical Engineer/Dev
 </div>
 
 <div align="center">
-  <a href="#">Deep Learning Applications</a> - 
+  <a href="#">Rotor-Bearing-Housing problems</a> - 
   <a href="#">Computational Fluid Dynamics - CFD</a> - 
   <a href="#">Finite Element Method - MEF</a> - 
   <a href="#">Semi and empirical Models</a> 
+  <a href="#">Deep Learning Applications</a> - 
 </div>
 
 <br>

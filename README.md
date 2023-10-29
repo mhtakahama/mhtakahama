@@ -81,9 +81,10 @@ Mechanical Engineer/Dev
 
 
 <!-- Space for Example Codes -->
-<h1>📋 Simply example codes for teaching class (Coming soon)</h1>
+<h1>📋 Simply example codes for teaching class</h1>
 
 <ul>
+  <li><a href="https://github.com/mhtakahama/Aulas_Elemaq2022">Elementos de máquina (2022), Material de aula e exercícios em MATLAB</a></li>
   <li><a href="https://github.com/mhtakahama/Code-examples/blob/main/Fortran_CFD_exercise">Fortran (2019), CFD for class</a></li>
   <li><a href="https://github.com/mhtakahama/Code-examples/blob/main/Matlab_DeeplLearning_Classificador%20de%20Padr%C3%B5es/Algoritmo.m">MATLAB (2016), Deep learning to classify pattern</a></li>
 </ul>

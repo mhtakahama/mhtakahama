@@ -54,8 +54,8 @@ Mechanical Engineer/Dev
 <hr>
 
 <!-- Projects developed -->
-<h2><a href="https://github.com/mhtakahama/VODCA">Digital Image Correlation for Vibration Analysis (2019)</a></h2> 
-  <a href="https://github.com/mhtakahama/VODCA">
+<h2><a href="https://github.com/mhtakahama/VODCA-UTFPR">Digital Image Correlation for Vibration Analysis (2019)</a></h2> 
+  <a href="https://github.com/mhtakahama/VODCA-UTFPR">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Vibration/6.png" alt="Figure 1" width="805">
   </a>
 </div>

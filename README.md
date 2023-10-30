@@ -45,7 +45,7 @@ Mechanical Engineer/Dev
         <a href="#">Thermal</a> - 
         <a href="#">Structural</a> - 
         <a href="#">Vibration</a> - 
-        <a href="#">Fluid Dynamics</a>
+        <a href="#">Fluid Dynamics</a> -
         <a href="#">Rheology</a> - 
         <a href="#">Signal Analysis</a>
     </div>

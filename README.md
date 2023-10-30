@@ -33,8 +33,8 @@ Mechanical Engineer/Dev
         <a href="#">Rotor-Bearing-Housing Problems</a> - 
         <a href="#">Computational Fluid Dynamics - CFD</a> - 
         <a href="#">Finite Element Method - FEM</a> - 
-        <a href="#">Semi-Empirical Models</a> 
-        <a href="#">Deep Learning Applications</a> - 
+        <a href="#">Semi-Empirical Models</a> -
+        <a href="#">Deep Learning Applications</a> 
     </div>
 </div>
 

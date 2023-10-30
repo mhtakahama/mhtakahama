@@ -60,15 +60,15 @@ Mechanical Engineer/Dev
   </a>
 </div>
 
-<h2>Rolling Bearing Power Loss Test Rig and Thermal Analysis (2020)</h2>
+<h2><a href="https://github.com/mhtakahama/Rolling-Bearing-Power-Loss-Test-Rig-RBPLR">Rolling Bearing Power Loss Test Rig and Thermal Analysis (2020)</h2>
 <div style="display: flex; flex-direction: row;">
-<a href="[Thermal Analysis](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/3a.png)">
+<a href="https://github.com/mhtakahama/Rolling-Bearing-Power-Loss-Test-Rig-RBPLR">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/1.gif" alt="Figure 3" width="805">
     </a>      
-<a href="[RBPLR](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1a.png)">
+<a href="https://github.com/mhtakahama/Rolling-Bearing-Power-Loss-Test-Rig-RBPLR">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1a.png" alt="Figure 2" width="420">
   </a>
-<a href="[Thermal Analysis](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/3a.png)">
+<a href="https://github.com/mhtakahama/Rolling-Bearing-Power-Loss-Test-Rig-RBPLR">
       <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/3a.png" alt="Figure 2.2" width="380">
   </a>
 

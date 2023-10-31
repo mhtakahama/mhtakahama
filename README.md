@@ -80,11 +80,11 @@ Mechanical Engineer/Dev
   <a href="[Mode Vibration](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif)">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif" alt="Figure 5" width="805">
   </a>
-      <h2>Non newtonian fluid analysis and friction for performance in grease lubrication (2023)</h2>
-  <a href="[Rheology Curve](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5a.jpg)">
+      <h2> <a href ="https://github.com/mhtakahama/MTMxReometro">Non newtonian fluid analysis and friction for performance in grease lubrication (2023)</h2>
+  <a href="https://github.com/mhtakahama/MTMxReometro">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5a.jpg" alt="Figure 6" width="380">
   </a>
-  <a href="[MTM Curve](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5b.jpg)">
+  <a href="https://github.com/mhtakahama/MTMxReometro">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/5b.jpg" alt="Figure 7" width="420">
   </a>
 

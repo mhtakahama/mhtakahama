@@ -72,12 +72,12 @@ Mechanical Engineer/Dev
       <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/3a.png" alt="Figure 2.2" width="380">
   </a>
 
-  <h2>Contact Mechanics in Rolling Bearings (2023)</h2>
-  <a href="[Mechanical Contacts](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1b.gif)">
+  <h2><a href="https://github.com/mhtakahama/Mechanic-of-Contacts-UTFPR">Contact Mechanics in Rolling Bearings (2023)</h2>
+  <a href="https://github.com/mhtakahama/Mechanic-of-Contacts-UTFPR)">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1b.gif" alt="Figure 4" width="805">
   </a>
-    <h2>Structural and rotor mode vibration analysis (2023)</h2>
-  <a href="[Mode Vibration](https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif)">
+    <h2><a href="https://github.com/mhtakahama/Structural_mode_vibration_UTFPR">Structural and rotor mode vibration analysis (2023)</h2>
+  <a href="https://github.com/mhtakahama/Structural_mode_vibration_UTFPR)">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif" alt="Figure 5" width="805">
   </a>
       <h2> <a href ="https://github.com/mhtakahama/MTMxReometro">Non newtonian fluid analysis and friction for performance in grease lubrication (2023)</h2>

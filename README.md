@@ -73,11 +73,11 @@ Mechanical Engineer/Dev
   </a>
 
   <h2><a href="https://github.com/mhtakahama/Mechanic-of-Contacts-UTFPR">Contact Mechanics in Rolling Bearings (2023)</h2>
-  <a href="https://github.com/mhtakahama/Mechanic-of-Contacts-UTFPR)">
+  <a href="https://github.com/mhtakahama/Mechanic-of-Contacts-UTFPR">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1b.gif" alt="Figure 4" width="805">
   </a>
     <h2><a href="https://github.com/mhtakahama/Structural_mode_vibration_UTFPR">Structural and rotor mode vibration analysis (2023)</h2>
-  <a href="https://github.com/mhtakahama/Structural_mode_vibration_UTFPR)">
+  <a href="https://github.com/mhtakahama/Structural_mode_vibration_UTFPR">
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/2a.gif" alt="Figure 5" width="805">
   </a>
       <h2> <a href ="https://github.com/mhtakahama/MTMxReometro">Non newtonian fluid analysis and friction for performance in grease lubrication (2023)</h2>

@@ -1,4 +1,4 @@
-## Msc. Marcos Takahama👨‍🔧
+## Marcos Takahama, Ph.D. Candidate's Portfolio👨‍🔧
 Mechanical Engineer/Dev
 
 <!-- Space for APIs -->

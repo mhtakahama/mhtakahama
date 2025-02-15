@@ -67,7 +67,7 @@ Mechanical Engineer/Dev
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Thermal%20RB/1b.gif" alt="Figure 4" width="805">  
   </a>  
 
-  <h2><a href="https://github.com/mhtakahama/SurgeSwab-Petrobras">Replacement of fluids in Offshore Building (2025)</h2>  
+  <h2><a href="https://github.com/mhtakahama/SurgeSwab-Petrobras">Fluid Replacement in Oil Wells (2024)</h2>  
 <a href="https://github.com/mhtakahama/SurgeSwab-Petrobras">  
     <img src="https://github.com/mhtakahama/mhtakahama/blob/main/Figures/Petrobras/1.jpg" alt="Petrobras Project" width="805">  
 </a>  
@@ -82,7 +82,3 @@ Mechanical Engineer/Dev
 <li><a href="https://github.com/mhtakahama/Templates">Templates</a></li>  
 </ul>  
 <div align="center">  
-
-<!--Additional notes -->  
-<h4><sub> Also skilled in crafting coffee ☕ and pizza maker 🍕</sub></h4>  
-</div>  

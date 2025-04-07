@@ -6,7 +6,7 @@ Mechanical Engineer/Dev
   <tr>  
     <td>  
       <a href="http://lattes.cnpq.br/8034933372506302">  
-      <img src="https://github.com/mhtakahama/mhtakahama/raw/main/mhtakahama.png" width="200">  
+ <!<img src="https://github.com/mhtakahama/mhtakahama/raw/main/mhtakahama.png" width="200"> 
     </td>  
     <td>  
       <img src="https://github-readme-stats.vercel.app/api?username=mhtakahama&show_icons=true&theme=codeSTACKr&count_private=true">  
